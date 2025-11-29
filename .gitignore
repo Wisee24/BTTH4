@@ -1,0 +1,48 @@
+## Ignore Visual Studio build folders
+bin/
+obj/
+
+## User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio cache & temp
+.vs/
+
+## Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+
+## Auto-generated files
+*.designer.cs
+*_i.c
+*_p.c
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+
+## Publish output
+publish/
+
+## Other common ignores
+Thumbs.db
+*.dbmdl
+*.jfm
+*.tlog
+
+## Rider / VS Code
+.idea/
+.vscode/
