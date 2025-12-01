@@ -25,7 +25,6 @@ packages/
 *.snupkg
 
 ## Auto-generated files
-*.designer.cs
 *_i.c
 *_p.c
 *.tmp
